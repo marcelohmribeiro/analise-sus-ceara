@@ -1,4 +1,4 @@
-# Atividade: Análise Enriquecida de Atendimentos SUS com Informações Municipais
+# Análise Enriquecida de Atendimentos SUS com Informações Municipais
 
 ## Como rodar
 ```bash

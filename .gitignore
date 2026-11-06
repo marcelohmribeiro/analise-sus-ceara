@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+# gerado pelo preparar.py e grande demais; o app não usa
+data/base_enriquecida.csv
+.claude/

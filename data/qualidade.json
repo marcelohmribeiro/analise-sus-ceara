@@ -1,0 +1,17 @@
+{
+  "linhas_brutas": 204579,
+  "id_invalido": 0,
+  "id_duplicado": 0,
+  "municipio_vazio": 0,
+  "nome_vazio": 1,
+  "linhas_duplicadas": 0,
+  "nomes_corrigidos": {
+    "ITAPAGÉ": 1070
+  },
+  "linhas_validas": 204579,
+  "municipios_sem_par": {},
+  "atendimentos_sem_par": 0,
+  "municipios_ibge": 184,
+  "municipios_com_atendimento": 184,
+  "municipios_mais_atend_que_hab": 0
+}
